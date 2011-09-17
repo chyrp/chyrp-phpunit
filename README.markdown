@@ -1,1 +1,2 @@
-== PHPUnit tests for Chyrp ==
+PHPUnit tests for Chyrp
+=======================
